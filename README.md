@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=mp4&s=014a8734c8d65fe3b5ef04658714bef6fc97778c.gif" height="auto" width="auto"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dlokzcb-553683f4-7ce4-4860-8d5e-bba66aa1c765.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGxva3pjYi01NTM2ODNmNC03Y2U0LTQ4NjAtOGQ1ZS1iYmE2NmFhMWM3NjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0Almd7zqhTWJJoJ-uLs_YngHzX-CHu5GjtuSfcadrng" width="100%" alt="Banner"/>
 </p>
-
 <h1 align="center">Hi There! 👋</h1>
 
 <h3 align="center">
