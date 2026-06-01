@@ -67,11 +67,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TP200613&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Tharun's GitHub Stats"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TP200613&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Tharun's GitHub Stats"/>
+
   <br/><br/>
+
   <img src="https://streak-stats.demolab.com/?user=TP200613&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TP200613&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TP200613&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+
 </p>
 
 ---
@@ -85,7 +91,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider animation"/>
 </p>
 
 <p align="center">
