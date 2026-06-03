@@ -69,9 +69,13 @@ class Tharun:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=TP200613">
-    <img src="https://github-profile-trophy.vercel.app/?username=TP200613&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-  </a>
+
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=TP200613&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+
+
 </div>
 
 ---
