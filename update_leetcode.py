@@ -18,22 +18,23 @@ def get_leetcode_stats(username):
 
 def update_readme(stats):
     with open("README.md", "r", encoding="utf-8") as f:
-        content = f.read()
+        lines = f.readlines()
 
-    new_table = (
-        "| Difficulty | Solved |\n"
-        "|:---:|:---:|\n"
-        f"| 🟢 Easy | {stats['easy']} |\n"
-        f"| 🟡 Medium | {stats['medium']} |\n"
-        f"| 🔴 Hard | {stats['hard']} |\n"
-        f"| **Total** | **{stats['total']}** |"
-    )
-
-    pattern = r"\| Difficulty \| Solved \|.*?\| \*\*Total\*\* \| \*\*\d+\*\* \|"
-    new_content = re.sub(pattern, new_table, content, flags=re.DOTALL)
+    new_lines = []
+    for line in lines:
+        if "Easy |" in line and "Difficulty" not in line:
+            new_lines.append(f"| 🟢 Easy | {stats['easy']} |\n")
+        elif "Medium |" in line:
+            new_lines.append(f"| 🟡 Medium | {stats['medium']} |\n")
+        elif "Hard |" in line:
+            new_lines.append(f"| 🔴 Hard | {stats['hard']} |\n")
+        elif "**Total**" in line:
+            new_lines.append(f"| **Total** | **{stats['total']}** |\n")
+        else:
+            new_lines.append(line)
 
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(new_content)
+        f.writelines(new_lines)
 
     print(f"Updated: Easy={stats['easy']}, Medium={stats['medium']}, Hard={stats['hard']}, Total={stats['total']}")
 
