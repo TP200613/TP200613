@@ -29,7 +29,7 @@ def update_readme(stats):
         f"| **Total** | **{stats['total']}** |"
     )
 
-    pattern = r"(\| Difficulty \| Solved \|.*?\| \*\*Total\*\* \| \*\*\d+\*\* \|)"
+    pattern = r"\| Difficulty \| Solved \|.*?\| \*\*Total\*\* \| \*\*\d+\*\* \|"
     new_content = re.sub(pattern, new_table, content, flags=re.DOTALL)
 
     with open("README.md", "w", encoding="utf-8") as f:
