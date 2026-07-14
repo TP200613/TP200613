@@ -86,10 +86,10 @@ class Tharun:
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | 22 |
+| 🟢 Easy | 23 |
 | 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
-| **Total** | **24** |
+| **Total** | **25** |
 
 *Just getting started — consistent practice every day!*
 
