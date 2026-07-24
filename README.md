@@ -87,9 +87,9 @@ class Tharun:
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | 28 |
-| 🟡 Medium | 5 |
+| 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
-| **Total** | **33** |
+| **Total** | **34** |
 
 *Just getting started — consistent practice every day!*
 
